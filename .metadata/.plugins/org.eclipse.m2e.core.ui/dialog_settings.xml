@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="E:\Microsrvices\product-service (2)\product-service"/>
+			<item value="E:\Microsrvices\order-service (2)\order-service"/>
+			<item value="E:\Microsrvices\api-gateway\api-gateway"/>
+			<item value="E:\Microsrvices\config-server\config-server"/>
+			<item value="E:\Microsrvices\eureka-server\eureka-server"/>
+			<item value="E:\Microsrvices\inventory-service\inventory-service"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
