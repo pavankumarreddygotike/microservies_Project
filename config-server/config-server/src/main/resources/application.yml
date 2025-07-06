@@ -5,5 +5,6 @@ spring:
   cloud:
     config:
       server:
-        native:
-          search-locations: file:///E:/Microsrvices/config-repo
+        git:
+          uri: https://github.com/pavankumarreddygotike/microservices-configs
+          clone-on-start: true
